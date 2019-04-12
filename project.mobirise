@@ -1,0 +1,619 @@
+{
+  "settings": {
+    "name": "Site-04-12_1300",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#b98eb1",
+        "#af1f10"
+      ]
+    },
+    "snow": "",
+    "versionFirst": "4.6.0",
+    "uniqCompNum": 40,
+    "versionPublish": "4.6.0",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".display-1": {
+              "font-weight": "700"
+            },
+            ".lead": {
+              "color": "#fff",
+              "text-transform": "uppercase",
+              "margin-bottom": "0"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "buttonAlign": "left",
+            "showArrow": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#16a085",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.1"
+          },
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "title": "Бизнес-тренинг в Кромах",
+          "text": "Первый и единственный",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=79651237911.\" data-toolbar=\"-mbrBtnMove\">WHATSAPP</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:Romavent@mail.ru\" data-toolbar=\"-mbrBtnMove\">Email</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-0"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "20px"
+            },
+            "H3": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f1c40f"
+          },
+          "title": "Настоятельно рекомендую внимательно дочитать до конца",
+          "meta": "<b>Это может изменить Вашу жизнь</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "Что это?",
+          "meta": "<b><br></b><br><b>Двухмесячный тренинг по открытию своего дела и финансовой грамотности\n</b><br><br><b>На основе образовательной программы Правительства Москвы<br>\n<br>То, чему не учат в школе и университете\n<br>\n<br>То, о чем я жалею, что не знал в свои 18 лет\n<br>\n<br>Это единственный набор и больше такого не будет</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-11"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "18px"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "От автора",
+          "meta": "<br><b>Я никому и ничего не обещаю и не гарантирую&nbsp;</b><br><br><b>Бизнес по определению не могут делать все</b><br><br><b>Если из группы в 10 человек открыть свое дело получится хотя бы у 1-2 участников, то это уже будет отличный результат</b><br><br><b>Но я уверен в том, что:</b><br><br><b>- ничто не мешает именно Вам стать одним из них&nbsp;</b><br><br><b>- независимо от Вашего результата, это обучение не пройдет бесследно и Вы уже никогда не будете прежним</b><br><br><b>- полученные Вами навыки останутся с Вами на всю жизнь и затраченное вернется многократно</b><br><br><b>- за 2 месяца Вы получите знания и навыки, которые не дадут Вам за годы обучения в университете&nbsp;<br></b><br><b>Кроме того, у лучших, возможно, будет шанс пройти последующее обучение в Москве на курсах от Правительства Москвы<br></b><br><br><br><b>Итак, поехали!<br></b><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-12"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "Чего не будет?",
+          "meta": "<b><br></b><br><b>Не будет сектанства\n</b><br><b><br>Не будет рекламы </b><br><b>\n<br>Не будет пустой болтовни\n</b><br><b><br>Не будет \"воды\" и НЛП-технологий\n</b><br><b><br>Не будет \"волшебной таблетки\"\n</b><br><b><br>Не будет сказок и обещаний о миллиардах</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "Что будет?",
+          "meta": "<b><br></b><br><b>Будет много работы </b><br><b>\n<br>Будет много реальной информации </b><br><b> \n<br>Будет наставничество и стимул что-то изменить </b><br><br><b>Будут практические занятия и домашние задания<br></b><br><b>Будет индивидуальная работа и работа в команде\n</b><br><b><br>Будет пошагово пройден путь по открытию своего дела\n</b><br><b><br>У кого-то, возможно, уже через 2 месяца будет свой бизнес</b><br><b>\n<br>У кого-то просто появится дополнительный доход\n</b><br><b><br>Кто-то переедет в Москву\n</b><br><br><b>Точно у всех будет порядок в голове\n</b><br><b><br>Точно вы никогда уже не будете прежними</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "18px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "Для кого?",
+          "meta": "<b><br></b><br><b>Возраст и пол значения не имеют</b><br><br><b>Ты хотел бы зарабатывать больше на своей работе\n</b><br><b><br>Ты хочешь открыть свое дело\n</b><br><b><br>Ты устал работать на кого-то</b><br><b>\n</b><br><b>У тебя нет четкого понимания как вести свои финансы</b><br><b><br>У тебя нет чёткого понимания что такое бизнес\n</b><br><b><br>Ты не понимаешь в чем разница между работой по найму, бизнесом и инвестированием\n</b><br><b><br>Ты чувствуешь, что в школе-университете тебе чего-то недодают\n</b><br><b><br>Не знаешь с чего начать свое дело\n</b><br><b><br>Нет четкой системы в голове\n</b><br><b><br>Тебе 40 лет, а денег нет\n</b><br><b><br>Ты по уши в кредитах и не понимаешь \"как так получилось?\"\n</b><br><b><br>Тебе 18, но ты не хочешь однажды проснуться и осознать, что всю жизнь шел не туда </b><br><br><b>Ты часами смотришь телевизор, сидишь в интернете или играешь в игры</b><br><br><b>Занимаешься еще какой-нибудь ерундой<br></b><b><br>Тебя не устраивает твой круг общения\n</b><br><b><br>Ты хочешь что-то изменить в своей жизни\n</b><br><b><br>Ты просто хочешь переехать в Москву</b>\n<br>\n<br><i>Если хотя бы один пункт подходит, то это для Тебя</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "Это точно не для тебя если:",
+          "meta": "<b><br></b><br><b>Ты циник, скептик, гопник\n</b><br><b><br>Тебе это не интересно\n</b><br><b><br>Ты ждешь какого-то чуда\n</b><br><b><br>Ты думаешь, что за тебя кто-то что-то будет делать\n</b><br><b><br>Ты из категории людей \"Верните мне деньги за бесплатный курс\" </b><br><b>\n<br>Ты не настроен работать\n</b><br><b><br>Бросаешь все, за что берешься</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-v"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "Это возможно не для тебя:",
+          "meta": "<b><br></b><br><b>Тебя все устраивает\n</b><br><b><br>Для тебя не проблема распланировать свой бюджет </b><br><b>\n<br>Ты точно знаешь принципиальную разницу между инвестором и наемным работником </b><br><b>\n<br>У тебя есть четкая система в голове\n</b><br><b><br>У тебя есть действующий бизнес с чистой прибылью от 50 тыс</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-w"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "Это возможно для тебя:",
+          "meta": "<b><br></b><br><b>У тебя есть небольшое дело, но нет видения его развития\n</b><br><b><br>У тебя есть дело, но ты не работаешь в интернете\n</b><br><b><br>У тебя есть дело, но нет общего понимания куда идти</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#eeeeee"
+          },
+          "title": "Кто?",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showButtons": false,
+            "bgCardImage": "@PROJECT_PATH@/assets/images/boy.jpg",
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/grass.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#eeeeee",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#233f5b",
+            "overlayOpacity": 0.8
+          },
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/features/03.jpg",
+              "class": ""
+            }
+          },
+          "title": "",
+          "subtitle": "",
+          "text": "В 22 года я уехал из Кром в Москву со 180 долларами в кармане.<br>За моими плечами 2 красных диплома и аспирантура.<br>Около 9 лет опыта работы на фрилансе.<br>Прошел программу обучения по открытию своего дела от Правительства Москвы. <br>Один из победителей в командном зачете.<br>Очень жалею, что таких возможностей не было в мои 18 лет",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-c",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-price-figure": {
+              "font-size": "72px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "default",
+            "secondType": "default",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#eeeeee",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Сколько стоит?",
+          "subtitle": "",
+          "title1": "за 1 место",
+          "title2": "за 1 место",
+          "title3": "CORPORATE PLAN",
+          "title4": "ULTIMATE PLAN",
+          "label1": "POPULAR",
+          "label2": "POPULAR",
+          "label3": "POPULAR",
+          "label4": "POPULAR",
+          "currency1": "",
+          "currency2": "",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "12 000",
+          "price2": "11 000",
+          "price3": "65",
+          "price4": "190",
+          "period1": "/руб.",
+          "period2": "/руб.",
+          "period3": "/mo",
+          "period4": "/mo",
+          "list1": "<p><b>При наборе группы</b></p><p><b>10 чел.</b></p>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>При наборе группы</b></li><li class=\"list-group-item\"><b>12 чел.</b></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>50</b> Projects</li><li class=\"list-group-item\"><b>100</b> Images</li><li class=\"list-group-item\"><b>24/7</b> Support</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Unlimited</b> Projects</li><li class=\"list-group-item\"><b>Unlimited</b> Images</li><li class=\"list-group-item\"><b>24/7</b> Support</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"mailto:Romavent@mail.ru\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:Romavent@mail.ru\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "32px",
+              "color": "#af1f10"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "Стоимость подобных курсов начинается от 60 тыс. р.",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "B": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#eeeeee"
+          },
+          "title": "Что потребуется еще?<br>",
+          "meta": "<b><br></b><br><b>Жалательно иметь:</b><br><b><br></b><b>Смартфон</b><br><b><br>Компьютер или ноутбук с выходом в интернет</b><br><b><br>Стартовый капитал 3-5 тыс. р.</b><br><b><br></b><br><b>Обязательно:</b><br><br><b>Порядочность</b><br><br><b>Доброжелательное отношение к окружающим</b><br><br><b>Готовность работать в команде</b><br><br><b>Неприятие противозаконных форм ведения бизнеса и поведения<br></b><b><br>Разрешение от родителей, если вам нет 18 лет</b><br><br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-10"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "countdown": "2019/04/20",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/05.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#eeeeee",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.75
+          },
+          "title": "Когда?",
+          "text": "<b>Возможно начало раньше при полном укомплектовании группы</b>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "countdown1",
+          "_anchor": "countdown1-y"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showText1": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#eeeeee",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Это единственный набор группы<br>Такого больше не будет<br>Успей закочить в последний вагон",
+          "text": "",
+          "text1": "or <a href=\"http://mobirise.com\">Check FAQ</a>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=79651237911.\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:Romavent@mail.ru\" data-toolbar=\"-mbrBtnMove\">Email</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call5",
+          "_anchor": "call5-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "25px"
+            },
+            "B": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Расскажи тем, кому это может быть нужно. И помоги изменить их жизнь",
+          "meta": "<b><br></b><br><b>Не получилось связаться иным способом?&nbsp;<br>Звони!</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-13"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "18px"
+            },
+            "B": {
+              "color": "#f39c12",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<b>8 (960) 645-96-60</b>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-z"
+        }
+      ]
+    }
+  }
+}
