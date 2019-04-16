@@ -455,7 +455,7 @@
             "paddingBottom": 1,
             "bgColor": "#eeeeee"
           },
-          "title": "Стоимость подобных курсов начинается от 60 000 руб.",
+          "title": "Стоимость подобных курсов начинается от 60 000 руб.<br><br>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -590,7 +590,7 @@
               "color": "#f39c12",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "20px"
+              "font-size": "22px"
             }
           },
           "_params": {
