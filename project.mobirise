@@ -518,7 +518,7 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -541,7 +541,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "Это единственный набор группы<br>Такого больше не будет<br>Успей заскочить в последний вагон",
+          "title": "Это единственный набор группы<br>и больше не будет<br>Успей заскочить в последний вагон",
           "text": "",
           "text1": "Узнай подробнее",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=79651237911.\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:Romavent@mail.ru\" data-toolbar=\"-mbrBtnMove\">Email</a>",
