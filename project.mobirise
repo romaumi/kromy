@@ -527,7 +527,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showText1": false,
+            "showText1": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/07.jpg",
             "parallax": false,
@@ -543,7 +543,7 @@
           },
           "title": "Это единственный набор группы<br>и больше не будет<br>Успей заскочить в последний вагон",
           "text": "",
-          "text1": "or <a href=\"http://mobirise.com\">Check FAQ</a>.",
+          "text1": "Узнай подробнее",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://api.whatsapp.com/send?phone=79651237911.\" data-toolbar=\"-mbrBtnMove\">WhatsApp</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"mailto:Romavent@mail.ru\" data-toolbar=\"-mbrBtnMove\">Email</a>",
           "alias": "colorm/components",
           "_tags": [
