@@ -31,7 +31,7 @@
     "versionPublish": "4.6.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/123x148.png",
+    "favicon": "@PROJECT_PATH@/assets/images/128x131.png",
     "noImageResize": "",
     "seo-meta": ""
   },
