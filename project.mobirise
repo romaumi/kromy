@@ -30,7 +30,10 @@
     "uniqCompNum": 40,
     "versionPublish": "4.6.0",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/123x148.png",
+    "noImageResize": "",
+    "seo-meta": ""
   },
   "pages": {
     "index.html": {
